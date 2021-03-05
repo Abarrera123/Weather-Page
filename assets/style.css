@@ -1,0 +1,32 @@
+#city-Search{
+   width: 15%;
+}
+h1{
+    display: flex;
+}
+.navbar-text{
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: medium;
+}
+.featured-container {
+    display: flex;
+    justify-content: left;
+}
+.col-6col-sm-4{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-style: solid;
+}
+#current-day{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+#five-day{
+display: flex;
+flex-direction:row ;
+justify-content: space-between;
+
+}

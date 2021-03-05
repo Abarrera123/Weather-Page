@@ -1,0 +1,14 @@
+Html
+1. Need a seatch menu with a list of 8 popular cities below it.
+2. clicking on the cities will fetch api data for each city\
+3.right side is split 2/3 and 1/3
+4.Current day forcast on top
+5. 5 day forcast below 
+
+js.
+create 8 rows from api with hrfef tags
+take out the city name in the search
+use search tag or city tag to display current day and 5- day forcast
+
+
+need to grab html element and change search
