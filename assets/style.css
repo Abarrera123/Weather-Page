@@ -4,16 +4,26 @@
 h1{
     display: flex;
 }
-.navbar-text{
+.container-fluid{
     display: flex;
     justify-content: center;
     font-weight: bolder;
     font-size: medium;
+    justify-content: center;
 }
-.featured-container {
-    display: flex;
-    justify-content: left;
+
+#featured-container {
+    /* display: flex; */
+    flex-direction: column;
 }
+#featured-container button{
+    min-width: 200px;
+    margin-bottom: 2px;
+    margin-right: 20px;
+}
+
+
+    
 .col-6col-sm-4{
     padding-top: 10px;
     padding-bottom: 10px;
